@@ -1,0 +1,86 @@
+.h2Shoes{
+    color:rgb(99, 99, 99);
+    font-family:Calibri;
+    font-size: 45px;
+    letter-spacing: 2px;
+   
+   font-weight:350;
+   margin-top: -15px;
+   margin-bottom: 10px;
+}
+
+.TagClass{
+   font-size: 18px;
+}
+
+.h2Shoes{
+ 
+   animation: Color 4s linear infinite;
+  -webkit-animation: Color 4s ease-in-out infinite;
+ 
+}
+
+@keyframes Color{
+  0%{
+    color:#323232;
+  }
+  
+  20%{
+    color:#3f3f3f;
+  }
+  
+  40%{
+    color:#6f6e6e;
+  }
+  
+  60%{
+    color:#8c8b8b;
+  }
+  
+  80%{
+    color:#abaaaa;
+  }
+  
+  100%{
+    color:#b7b7b7;
+  }
+}
+
+
+
+
+.firstCircle:hover{
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 50%;
+
+  
+}
+
+.firstCircle:active{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

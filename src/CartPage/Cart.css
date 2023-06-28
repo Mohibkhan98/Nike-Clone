@@ -1,0 +1,142 @@
+.Container{
+     display: grid;
+     grid-template-columns: 60% 30%;
+     grid-column-gap: 30px;
+    margin-left: 120px;
+}
+
+.CartOne{
+     text-align: left;
+     font-family: Bahnschrift;
+     font-size: 25px;
+     margin-bottom: 20px;
+}
+
+.CartLast{
+    text-align: left;
+    font-family: Bahnschrift;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.secondColone{
+    text-align: left;
+    font-weight:500;
+    font-family: Bahnschrift;
+    font-size: larger;
+}
+
+.secondColtwo{
+    text-align: left;
+    font-family: Bahnschrift;
+    color: rgb(148, 148, 148);
+    font-weight:400;
+}
+
+.secondColthree{
+    text-align: left;
+    font-family: Bahnschrift;
+    color:rgb(180, 37, 37);
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.BtnColTwo:hover{
+     color:rgba(254, 54, 54, 0.976)
+}
+
+.dropDown{
+    color:rgb(63, 63, 63);
+    font-family: Bahnschrift;
+}
+
+.priceTag{
+   margin-left: 80px;
+   color:rgb(29, 29, 29);
+   font-family: Bahnschrift;
+   font-size: 18px;
+}
+
+.TotalBox1{
+    color:rgb(71, 71, 71);
+    font-family: Bahnschrift;
+    font-size: 18px;
+    font-weight:500;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.TotalBox2{
+    color:rgb(71, 71, 71);
+    font-family: Bahnschrift;
+    font-size: 18px;
+    font-weight:500;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.TotalBox3{
+    color:rgb(71, 71, 71);
+    font-family: Bahnschrift;
+    font-size: 18px;
+    font-weight:500;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 4px;
+    padding-left: 4px;
+    padding-right: 6px;
+}
+
+.lastBtn1{
+     background-color: black;
+     color: white;
+     font-family: Bahnschrift;
+     width: 100%;
+     height: 48px;
+     margin-top: 50px;
+     font-size: 18px;
+     font-weight:500;
+     border-radius: 50px;
+}
+
+.lastBtn2{
+    background-color: black;
+    color: white;
+    font-family: Bahnschrift;
+     width: 100%;
+     height: 48px;
+     margin-top: 10px;
+     font-size: 18px;
+     font-weight:500;
+     border-radius: 50px;
+     
+}
+
+.lastBtn1:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+.lastBtn2:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+.empty{
+    margin-left: 20px;
+    margin-top: 100px;
+    color:rgb(29, 29, 29);
+    font-family: Bahnschrift;
+    font-size: 30px;
+}
+

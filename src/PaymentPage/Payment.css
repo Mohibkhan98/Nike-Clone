@@ -1,0 +1,68 @@
+.Container1{
+    display: grid;
+    grid-template-columns: 60% 30%;
+    grid-column-gap: 30px;
+   margin-left: 120px;
+}
+
+
+.PayBtn2{
+    background-color: black;
+    color: white;
+    font-family: Bahnschrift;
+     width: 100%;
+     height: 48px;
+     margin-top: 10px;
+     font-size: 18px;
+     font-weight:500;
+     border-radius: 10px;
+     
+}
+
+
+
+.PayBtn2:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    font-weight: bold;
+}
+
+.payTwo{
+    text-align: left;
+     font-family: Bahnschrift;
+     font-size: 15px;
+     margin-bottom: 20px;
+     font-weight:300;
+}
+
+.payThree{
+
+    text-align: left;
+    font-family: Bahnschrift;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.payFour{
+
+    text-align: left;
+    font-family: Bahnschrift;
+    font-size: 25px;
+    margin-bottom: 20px;
+    margin-left: -170px;
+}
+
+.payFive{
+
+    text-align: left;
+    font-family: Bahnschrift;
+ 
+    margin-top: -15px;
+    margin-left: -170px;
+}
+
+.paySix{
+    margin-top: 5px;
+    font-family: Bahnschrift;
+}

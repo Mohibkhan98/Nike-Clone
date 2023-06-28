@@ -1,0 +1,71 @@
+.rightDropdown{
+    color:rgb(99, 99, 99);
+    margin-right: 20px;
+
+}
+
+.hideBtn{
+   
+    color:rgb(160, 160, 160);
+   
+}
+
+.firstTag{
+    color:rgb(160, 22, 22);
+    text-align: left;
+    font-weight:400;
+   font-family: Bahnschrift;
+   margin-top: 4px;
+}
+
+.secondTag{
+    text-align: left;
+    font-weight:500;
+    font-family: Bahnschrift;
+}
+
+
+.thirdTag{
+    text-align: left;
+    font-family: Bahnschrift;
+    color: rgb(148, 148, 148);
+    font-weight:400;
+}
+
+.fourTag{
+    text-align: left;
+    font-family: Bahnschrift;
+    color: rgb(148, 148, 148);
+    font-weight:400;
+}
+
+.fiveTag{
+    text-align: left;
+    font-weight:500;
+    font-family: Bahnschrift;
+}
+
+.sixTag{
+    font-weight:900;
+    font-family: Bahnschrift;
+    font-size: 30px;
+    margin-top: 0px;
+    color: rgba(208, 208, 208, 0.994);
+    background-color: rgb(0, 0, 0);
+}
+
+.zoom {
+  
+    transition: transform .5s;
+    
+   
+  }
+  
+  .zoom:hover {
+     border: 2px solid black;
+    -ms-transform: scale(1.0); /* IE 9 */
+    -webkit-transform: scale(1.0); /* Safari 3-8 */
+    transform: scale(1.09); 
+    background-color: rgb(0, 0, 0);
+    color:white;
+  }

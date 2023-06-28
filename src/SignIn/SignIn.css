@@ -1,0 +1,61 @@
+.NikeLogo{
+    width: 60px;
+    height: 25px;
+     margin-left: 150px;
+     margin-bottom: 30px;
+    
+}
+
+.stagOne{
+    
+    font-family: Bahnschrift;
+    font-size: 22px;
+    line-height: 22px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.checkTag{
+    display: flex;
+    justify-content: space-between;
+    font-family: Bahnschrift;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(155, 155, 155);
+    font-weight: 400;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.checkTag2{
+   
+    font-family: Bahnschrift;
+    font-size: 13px;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+   margin-left: 5px;
+   margin-right: 5px;
+}
+
+.checkTag3{
+    background-color: black;
+    color: aliceblue;
+    font-family: Bahnschrift;
+    width: 100%;
+    padding-top: 8px;
+   padding-bottom: 8px;
+   margin-top: 20px;
+   margin-bottom: 10px;
+   border-radius: 3px;
+}
+
+.checkTag4{
+    font-family: Bahnschrift;
+    font-size: 13px;
+    margin-top: 10px;
+    color: rgb(116, 116, 116);
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-bottom: 40px;
+}
